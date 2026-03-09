@@ -1,5 +1,8 @@
 # odin-recipes
 
-write a brief introduction describing what the current project is and what skills you will have demonstrated once you have completed it. 
+website practice on html boilerplate, text, images, tags, links, file
+management for website using html
 
-(You can also do this as a self-reflection at the end of the project, which is a good way to review what you have learned.)
+/* write a brief introduction describing what the current project is and what skills you will have demonstrated once you have completed it. 
+
+(You can also do this as a self-reflection at the end of the project, which is a good way to review what you have learned.) */
